@@ -6,7 +6,7 @@ I am currently working on one large project for my friend [Foodhunterki](https:/
 
 - [x] simple e-commerce with user authorization and cookies
 - [ ] rapidAPI integration - :hourglass:in progress
-- [ ] home page with blog
+- [ ] home page with blog - :hourglass:in progress
 - [ ] newsletter
 
 <!--
