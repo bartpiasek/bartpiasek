@@ -5,8 +5,8 @@ I'm a self-taught python coder. Currently I am focusing on the Django framework 
 I am currently working on one large project for my friend [Foodhunterki](https://www.instagram.com/foodhunterki/) :
 
 - [x] simple e-commerce with user authorization and cookies
-- [ ] rapidAPI integration - :hourglass:in progress
-- [ ] home page with blog - :hourglass:in progress
+- [ ] rapidAPI integration - :hourglass:in progress 60%
+- [ ] home page with blog - :hourglass:in progress 80%
 - [ ] newsletter
 
 <!--
