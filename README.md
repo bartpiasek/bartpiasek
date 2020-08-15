@@ -5,7 +5,7 @@ I'm a self-taught python coder. Currently I am focusing on the Django framework 
 I am currently working on one large project MVP for my friend [Foodhunterki](https://www.instagram.com/foodhunterki/) :
 
 - [x] fhstoreApp - simple e-commerce with user authentication and cookies
-- [ ] fhapipageApp - fhaprapidAPI integration - :hourglass:in progress 60%
+- [ ] fhapipageApp - RapidAPI integration - :hourglass:in progress 60%
 - [ ] fhblog - simple blog page - :hourglass:in progress 80%
 - [ ] global user authentication system for all apps - :hourglass:in progress
 - [ ] newsletter with CallToAction page
