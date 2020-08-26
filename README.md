@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-I'm a self-taught python coder. Currently I am focusing on the Django framework and REST API. I also have a basic understanding of JavaScript and React. I am looking for my first job as a Junior Python Developer. I spend about 6-7 hours a day developing my programming skills:clock8:, I love it:heart:
+I'm a self-taught python coder. Currently I am focusing on the Django framework and REST API. I also have a basic understanding of JavaScript and React. I am looking for my first job as a Junior Python Developer.
 
 I am currently working on one large project MVP for my friend [Foodhunterki](https://www.instagram.com/foodhunterki/) :
 
