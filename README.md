@@ -2,7 +2,7 @@
 
 I'm a self-taught python coder. Currently I am focusing on the Django framework and REST API. I also have a basic understanding of JavaScript and React. I am looking for my first job/internship.
 
-Python (Django framework) :heavy_multiplication_x: API :heavy_multiplication_x:  JavaScript :heavy_multiplication_x: React :heavy_multiplication_x: Node.js :heavy_multiplication_x: SQL :heavy_multiplication_x: Github :heavy_multiplication_x: Postman
+Python :heavy_multiplication_x: Django :heavy_multiplication_x: API :heavy_multiplication_x: JavaScript :heavy_multiplication_x: React:soon: :heavy_multiplication_x: Node.js:soon: :heavy_multiplication_x: SQL :heavy_multiplication_x: Git :heavy_multiplication_x: Postman
 
 
 
